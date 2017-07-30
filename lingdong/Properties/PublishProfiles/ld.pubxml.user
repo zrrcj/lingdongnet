@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\个人项目</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/lingdong.dll">
+      <publishTime>07/13/2017 17:34:46</publishTime>
+    </File>
+    <File Include="img/null.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="img/null.png">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>07/13/2017 17:33:05</publishTime>
+    </File>
+    <File Include="js/fontawesome-webfont.woff2">
+      <publishTime>10/28/2016 04:51:44</publishTime>
+    </File>
+    <File Include="js/metinfo.css">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="js/metinfo.js">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="js/web-icons.woff2">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="product.html">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="product_1.html">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201611/1422258610.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201611/1480412957.png">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481161992.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481163591.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481164132.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481164379.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481169859.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481175422.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481180268.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481211118.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481290045.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481330159.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481330552.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481330729.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481335516.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481340777.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481342652.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481344901.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481355257.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481355363.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481356071.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481356502.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481719302.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1481892407.png">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1482203407.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="upload/201612/1482204540.jpg">
+      <publishTime>07/13/2017 17:06:08</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/13/2017 17:34:46</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+c:\users\zrrcj\documents\visual studio 2013\Projects\lingdong\lingdong\bin\lingdong.dll.config
+c:\users\zrrcj\documents\visual studio 2013\Projects\lingdong\lingdong\bin\lingdong.dll
+c:\users\zrrcj\documents\visual studio 2013\Projects\lingdong\lingdong\bin\lingdong.pdb
+c:\users\zrrcj\documents\visual studio 2013\Projects\lingdong\lingdong\obj\Debug\lingdong.csprojResolveAssemblyReference.cache
+c:\users\zrrcj\documents\visual studio 2013\Projects\lingdong\lingdong\obj\Debug\lingdong.dll
+c:\users\zrrcj\documents\visual studio 2013\Projects\lingdong\lingdong\obj\Debug\lingdong.pdb
